@@ -649,13 +649,13 @@
 // }
 // document.write("</select>")
 
-// Assignment # 16 TO 20  Task 1
+// Assignment # 17 TO 20  Task 1
 
 // var a = [
 //     [1, 2, 3, 4]
 // ]
 
-// Assignment # 16 TO 20 Task 2
+// Assignment # 17 TO 20 Task 2
 // var a = [
 //     [0, 1, 2, 3, "<br>"],
 //     [1, 0, 1, 2, "<br>"],
@@ -667,19 +667,22 @@
 //     }
 // }
 
-// Assignment # 16 TO 20 Task 3
+// Assignment # 17 TO 20 Task 3
 // var a = 10;
 // for (let i = 1; i <= a; i++) {
 //     document.write(i + "<br>")
 // }
-//  Assignment # 16 TO 20 Task 4
+//  Assignment # 17 TO 20 Task 4
+
+
 
 // var a = +prompt("Enter a number to show its multiplication table")
 // var b = +prompt("Enter length of multiplication table")
 // for (let i = 1; i <= b; i++) {
 //     document.write(a + "x" + i + "=", a * i + "<br>")
 // }
-// Assignment # 16 TO 20 Task 5
+// Assignment # 17 TO 20 Task 5
+
 // var fruits = ["apple", "banana", "mango", "orange", "strawberry"]
 // for (let k = 0; k < fruits.length; k++) {
 //     document.write(fruits[k] + "<br>")
@@ -688,7 +691,7 @@
 //     document.write("Element at index " + i + " is " + fruits[i] + "<br>")
 // }
 
-// Assignment # 16 TO 20 Task 6
+// Assignment # 17 TO 20 Task 6
 
 // var head = ("<h3>Counting:<br> </h3>")
 // document.write(head)
@@ -696,6 +699,7 @@
 // for (var i = 1; i <= a; i++) {
 //     document.write(i, ",")
 // }
+
 // var head = ("<h3>Reverse Counting:<br> </h3>")
 // document.write(head)
 // var a = 1;
@@ -718,7 +722,7 @@
 //         document.write(i + ",")
 //     }
 // }
-// var head = ("<h3>Odd:<br> </h3>")
+// var head = ("<h3>Series :<br> </h3>")
 // document.write(head)
 // var a = 20;
 // for (var i = 2; i <= a; ++i) {
